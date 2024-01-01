@@ -1,0 +1,20 @@
+baseURL = 'https://seanium.github.io/'
+title = 'Sean'
+languageCode = 'en-us'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'seanium'
+
+  # home page profile
+  name = 'Sean'
+  bio = 'Stay hungry.'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  math = true                               # enable KaTeX math typesetting globally
